@@ -1,0 +1,11 @@
+C:\Users\felip\Desktop\MaisGrana\MaisGrana\bin\Debug\MaisGrana.exe.config
+C:\Users\felip\Desktop\MaisGrana\MaisGrana\bin\Debug\MaisGrana.exe
+C:\Users\felip\Desktop\MaisGrana\MaisGrana\bin\Debug\MaisGrana.pdb
+C:\Users\felip\Desktop\MaisGrana\MaisGrana\obj\Debug\MaisGrana.csprojResolveAssemblyReference.cache
+C:\Users\felip\Desktop\MaisGrana\MaisGrana\obj\Debug\MaisGrana.frmInicio.resources
+C:\Users\felip\Desktop\MaisGrana\MaisGrana\obj\Debug\MaisGrana.Properties.Resources.resources
+C:\Users\felip\Desktop\MaisGrana\MaisGrana\obj\Debug\MaisGrana.csproj.GenerateResource.Cache
+C:\Users\felip\Desktop\MaisGrana\MaisGrana\obj\Debug\MaisGrana.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\MaisGrana\MaisGrana\obj\Debug\MaisGrana.exe
+C:\Users\felip\Desktop\MaisGrana\MaisGrana\obj\Debug\MaisGrana.pdb
+C:\Users\felip\Desktop\MaisGrana\MaisGrana\obj\Debug\MaisGrana.frmLancamentos.resources
